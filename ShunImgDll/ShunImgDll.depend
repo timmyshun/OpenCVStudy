@@ -1,0 +1,185 @@
+# depslib dependency file v1.0
+1375839864 source:e:\cpproom\shunimgdll\main.cpp
+	"opencv2/core/core.hpp"
+	"opencv2/highgui/highgui.hpp"
+	"opencv/cv.h"
+	<math.h>
+	<stdio.h>
+	"iostream"
+	"common.hpp"
+	"timedomain.hpp"
+
+1376649487 source:e:\cpproom\shunimgdll\common.cpp
+	"opencv2/core/core.hpp"
+	"opencv2/highgui/highgui.hpp"
+	"opencv/cv.h"
+	<math.h>
+	<stdio.h>
+	"iostream"
+
+1377416745 source:e:\cpproom\shunimgdll\timedomain.cpp
+	"opencv2/core/core.hpp"
+	"opencv2/highgui/highgui.hpp"
+	"opencv/cv.h"
+	"opencv2/imgproc/imgproc.hpp"
+	"opencv2/imgproc/imgproc_c.h"
+	"opencv2/legacy/legacy.hpp"
+	<math.h>
+	<stdio.h>
+	"iostream"
+	"common.hpp"
+
+1375838084 e:\cpproom\shunimgdll\common.hpp
+
+1375838264 e:\cpproom\shunimgdll\timedomain.hpp
+
+1378209182 source:e:\cpproom\shunimgdll\binaryzation.cpp
+	"opencv2/core/core.hpp"
+	"opencv2/highgui/highgui.hpp"
+	"opencv/cv.h"
+	"opencv2/imgproc/imgproc.hpp"
+	"opencv2/imgproc/imgproc_c.h"
+	"opencv2/legacy/legacy.hpp"
+	<math.h>
+	<stdio.h>
+	"iostream"
+	"common.hpp"
+
+1377052031 source:e:\cpproom\shunimgdll\hough.cpp
+	"opencv2/core/core.hpp"
+	"opencv/cv.h"
+	"opencv2/imgproc/imgproc.hpp"
+	"common.hpp"
+
+1377068131 source:e:\cpproom\shunimgdll\remap.cpp
+	"opencv2/core/core.hpp"
+	"opencv/cv.h"
+	"opencv2/highgui/highgui.hpp"
+	"opencv2/imgproc/imgproc.hpp"
+	"common.hpp"
+
+1377089724 source:e:\cpproom\shunimgdll\fft.cpp
+	"opencv2/core/core.hpp"
+	"opencv/cv.h"
+	"opencv2/imgproc/imgproc.hpp"
+	"common.hpp"
+
+1377240131 source:e:\cpproom\shunimgdll\integral.cpp
+	"opencv2/core/core.hpp"
+	"opencv/cv.h"
+	"opencv2/imgproc/imgproc.hpp"
+	"common.hpp"
+
+1377604651 source:e:\cpproom\shunimgdll\match.cpp
+	"opencv2/core/core.hpp"
+	"opencv2/highgui/highgui.hpp"
+	"opencv/cv.h"
+	"opencv2/imgproc/imgproc.hpp"
+	"opencv2/imgproc/imgproc_c.h"
+	"opencv2/legacy/legacy.hpp"
+	<math.h>
+	<stdio.h>
+	"iostream"
+	"common.hpp"
+
+1378210076 source:e:\cpproom\shunimgdll\contours.cpp
+	"opencv2/core/core.hpp"
+	"opencv/cv.h"
+	"opencv2/imgproc/imgproc.hpp"
+	"common.hpp"
+	"Binaryzation.hpp"
+
+1378209148 e:\cpproom\shunimgdll\binaryzation.hpp
+
+1379426352 source:e:\workspace\cpp\shunimgdll\binaryzation.cpp
+	"opencv2/core/core.hpp"
+	"opencv2/highgui/highgui.hpp"
+	"opencv/cv.h"
+	"opencv2/imgproc/imgproc.hpp"
+	"opencv2/imgproc/imgproc_c.h"
+	"opencv2/legacy/legacy.hpp"
+	<math.h>
+	<stdio.h>
+	"iostream"
+	"common.hpp"
+
+1375838084 e:\workspace\cpp\shunimgdll\common.hpp
+
+1379426224 source:e:\workspace\cpp\shunimgdll\common.cpp
+	"opencv2/core/core.hpp"
+	"opencv2/highgui/highgui.hpp"
+	"opencv/cv.h"
+	<math.h>
+	<stdio.h>
+	"iostream"
+
+1379426413 source:e:\workspace\cpp\shunimgdll\fft.cpp
+	"opencv2/core/core.hpp"
+	"opencv/cv.h"
+	"opencv2/imgproc/imgproc.hpp"
+	"common.hpp"
+
+1379426372 source:e:\workspace\cpp\shunimgdll\hough.cpp
+	"opencv2/core/core.hpp"
+	"opencv/cv.h"
+	"opencv2/imgproc/imgproc.hpp"
+	"common.hpp"
+
+1379426425 source:e:\workspace\cpp\shunimgdll\integral.cpp
+	"opencv2/core/core.hpp"
+	"opencv/cv.h"
+	"opencv2/imgproc/imgproc.hpp"
+	"common.hpp"
+
+1375839864 source:e:\workspace\cpp\shunimgdll\main.cpp
+	"opencv2/core/core.hpp"
+	"opencv2/highgui/highgui.hpp"
+	"opencv/cv.h"
+	<math.h>
+	<stdio.h>
+	"iostream"
+	"common.hpp"
+	"timedomain.hpp"
+
+1375838264 e:\workspace\cpp\shunimgdll\timedomain.hpp
+
+1379426200 source:e:\workspace\cpp\shunimgdll\match.cpp
+	"opencv2/core/core.hpp"
+	"opencv2/highgui/highgui.hpp"
+	"opencv/cv.h"
+	"opencv2/imgproc/imgproc.hpp"
+	"opencv2/imgproc/imgproc_c.h"
+	"opencv2/legacy/legacy.hpp"
+	<math.h>
+	<stdio.h>
+	"iostream"
+	"common.hpp"
+
+1377068131 source:e:\workspace\cpp\shunimgdll\remap.cpp
+	"opencv2/core/core.hpp"
+	"opencv/cv.h"
+	"opencv2/highgui/highgui.hpp"
+	"opencv2/imgproc/imgproc.hpp"
+	"common.hpp"
+
+1379426321 source:e:\workspace\cpp\shunimgdll\timedomain.cpp
+	"opencv2/core/core.hpp"
+	"opencv2/highgui/highgui.hpp"
+	"opencv/cv.h"
+	"opencv2/imgproc/imgproc.hpp"
+	"opencv2/imgproc/imgproc_c.h"
+	"opencv2/legacy/legacy.hpp"
+	<math.h>
+	<stdio.h>
+	"iostream"
+	"common.hpp"
+
+1378903253 source:e:\workspace\cpp\shunimgdll\contours.cpp
+	"opencv2/core/core.hpp"
+	"opencv/cv.h"
+	"opencv2/imgproc/imgproc.hpp"
+	"common.hpp"
+	"Binaryzation.hpp"
+
+1378209148 e:\workspace\cpp\shunimgdll\binaryzation.hpp
+
